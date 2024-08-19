@@ -2,6 +2,15 @@
 
 Welcome to the Serve-AI GitHub repository! Serve-AI is a project under the broader Serve-IT initiative at Indiana University, and is funded by the Public Interest Technology University Network (PIT-UN). Serve-AI focuses on developing AI-driven solutions to empower small, resource-constrained nonprofit organizations. Our goal is to create accessible and ethical AI tools, along with training materials, educational resources, and best practices that enhance the efficiency and impact of these nonprofits. In doing so, we further the mission of PIT-UN and Serve-AI to apply technology in the service of the public interest.
 
+## Using This Repository
+You'll find all the deliverables, documentation, and resources created by students and mentors in the Serve-AI project within this repository. These materials are organized by topic and project, making it easy to locate specific deliverables, research notes, software documentation, and other resources. If you'd like to access training materials or information on a specific AI tool, project, or topic, you can simply navigate to the deliverables folder and explore the relevant topic. Documentation will be linked within the deliverables folder if needed (e.g. for software packages). 
+
+For example:
+If you'd like to learn about how you can utilize AI to generate a style guide
+1. Navigate to the `deliverables/`directory
+2. Navigate to the `productivity_with_ai/` `topic` directory
+3. Then navigate to and explore the `generating_style_guides_with_ai/` `project` directory
+
 ## Repository Structure
 
 This repository is organized into two key sections:
